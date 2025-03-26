@@ -25,7 +25,7 @@ pip install tensorflow keras numpy matplotlib seaborn scikit-learn splitfolders
 ```
 
 ## Dataset
-The model is trained on the [Driver Drowsiness Dataset (DDD)](https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd/data) from Kaggle, containing facial images of drivers in awake and drowsy states.
+The model is trained on the [Driver Drowsiness Dataset (DDD)](https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd/data) from Kaggle, containing facial images of drivers in awake and drowsy state.
 
 ## Model Architecture
 - Base Model: MobileNetV2
