@@ -8,7 +8,7 @@ This project develops a deep learning model to detect driver drowsiness using fa
 - Uses MobileNetV2 as a pre-trained base model for feature extraction
 - Incorporates an LSTM layer for sequence processing
 - Accuracy and performance metrics
-- 
+  
 ## Requirements
 - Python 3.8+
 - TensorFlow
